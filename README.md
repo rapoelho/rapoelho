@@ -15,6 +15,9 @@ Sou uma pessoa bem curiosa, que gosta de desenhar e de vez em quando fazer algum
 ### [inSANE](https://github.com/rapoelho/inSANE)
 O inSANE é um Script simples para usar o SANE via Linha de Comando. Esse Script surgiu de uma necessidade depois que o Epson Scan 2 e o Gnome Simple Scan pararam de funcionar.
 
+### [batBench](https://github.com/rapoelho/batBench)
+Um Script simples, para fazer um Benchmark da Bateria do Notebook.
+
 ## 📈 Estatísticas do GitHub
 
 ![Estatísticas do GitHub de Rapoelho](https://github-readme-stats.vercel.app/api?username=rapoelho&show_icons=true&theme=radical)
