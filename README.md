@@ -27,7 +27,7 @@ Um Script para a instalação de um Openbox bastante opinativo.
 
 ## 📫 Conecte-se Comigo
 
-- [Blog sobre Informática](https://tocadorapoelho.wordpress.com)
+- [Blog sobre Informática](https://rapoelho.com.br)
 - [Blog com meus desenhos](https://cantinhodoromeo.com.br)
 
 Obrigado por visitar meu perfil! Sinta-se à vontade para entrar em contato se quiser colaborar em um projeto ou apenas se conectar.
