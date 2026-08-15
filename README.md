@@ -19,16 +19,12 @@ O inSANE é um Script simples para usar o SANE via Linha de Comando. Esse Script
 Um Script simples, para fazer um Benchmark da Bateria do Notebook.
 
 ### [Nippybox](https://github.com/rapoelho/nippybox)
-Um Script para a instalação de um Openbox bastante opinativo.
-
-## 📈 Estatísticas do GitHub
-
-![Estatísticas do GitHub de Rapoelho](https://github-readme-stats.vercel.app/api?username=rapoelho&show_icons=true&theme=radical)
+Um Script para a instalação de um Openbox bastante opinativo. Foi inspirado no Omarchy, mas tendo como base o Openbox, um ambiente gráfico que eu gosto bastante de usar.
 
 ## 📫 Conecte-se Comigo
 
 - [Blog sobre Informática](https://rapoelho.com.br)
-- [Blog com meus desenhos](https://cantinhodoromeo.com.br)
+- [Blog com meus desenhos](https://madebyromeo.com)
 
 Obrigado por visitar meu perfil! Sinta-se à vontade para entrar em contato se quiser colaborar em um projeto ou apenas se conectar.
 <!---
