@@ -6,7 +6,7 @@ Sou uma pessoa bem curiosa, que gosta de desenhar e de vez em quando fazer algum
 
 ## 🚀 Sobre Mim
 - 🛠️ Sei um pouco de Shell Script e um pouco de VB.net.
-- 👀 Mas estou em busca de aprender outras linguagens.
+- 👀 Mas estou em busca de aprender outras linguagens. Atualmente, aprendendo Python.
 - 🌱 Adoro aprender e explorar novas tecnologias.
 - 📫 Como me encontrar: romeo@cantinhodoromeo.com.br
 
