@@ -21,6 +21,9 @@ Um Script simples, para fazer um Benchmark da Bateria do Notebook.
 ### [Nippybox](https://github.com/rapoelho/nippybox)
 Um Script para a instalação de um Openbox bastante opinativo. Foi inspirado no Omarchy, mas tendo como base o Openbox, um ambiente gráfico que eu gosto bastante de usar.
 
+### [cookieHugo](https://github.com/rapoelho/cookiehugo)
+Um tema para aconchegante para o Hugo baseado na paleta Catppuccin Mocha.
+
 ## 📫 Conecte-se Comigo
 
 - [Blog sobre Informática](https://rapoelho.com.br)
